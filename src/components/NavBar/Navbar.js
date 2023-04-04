@@ -1,7 +1,7 @@
 const NavBar = ( ) => {
     return(
         <nav>
-           <h3>Video Juegos</h3>
+           <h2>Video Juegos</h2>
            <div>
                 <button>Catalogos</button>
                 <button>Video Juegos</button>
